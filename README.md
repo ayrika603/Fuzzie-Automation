@@ -1,9 +1,8 @@
 # Fuzzie-Automation
-# Fuzzie-Automater
 
 ## Overview
 
-Fuzzie-Automater is a comprehensive B2C SaaS solution designed to automate various user workflows seamlessly. Built using a robust stack including Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Next.js 14, Stripe, Bun, and React Flow, Fuzzie-Automater integrates with multiple services to enhance user productivity and automation capabilities.
+Fuzzie is a comprehensive B2C SaaS solution designed to automate various user workflows seamlessly. Built using a robust stack including Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Next.js 14, Stripe, Bun, and React Flow, Fuzzie integrates with multiple services to enhance user productivity and automation capabilities.
 
 ## Features
 
