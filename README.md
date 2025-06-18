@@ -49,3 +49,4 @@ Fuzzie is a comprehensive B2C SaaS solution designed to automate various user wo
 - **Payments**: Stripe
 
 ## Representative Video
+https://drive.google.com/file/d/11yiPX5ERNK96a1eZ8w2EbrZdOEL9B19T/view?usp=drive_link
